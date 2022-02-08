@@ -1,0 +1,11 @@
+D:\Microsoft Visual Studio\repos\BluetoothKey\bin\Debug\BluetoothKey.exe.config
+D:\Microsoft Visual Studio\repos\BluetoothKey\bin\Debug\BluetoothKey.exe
+D:\Microsoft Visual Studio\repos\BluetoothKey\bin\Debug\BluetoothKey.pdb
+D:\Microsoft Visual Studio\repos\BluetoothKey\obj\Debug\BluetoothKey.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\repos\BluetoothKey\obj\Debug\BluetoothKey.csproj.SuggestedBindingRedirects.cache
+D:\Microsoft Visual Studio\repos\BluetoothKey\obj\Debug\BluetoothKey.SettingForm.resources
+D:\Microsoft Visual Studio\repos\BluetoothKey\obj\Debug\BluetoothKey.Properties.Resources.resources
+D:\Microsoft Visual Studio\repos\BluetoothKey\obj\Debug\BluetoothKey.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\repos\BluetoothKey\obj\Debug\BluetoothKey.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\repos\BluetoothKey\obj\Debug\BluetoothKey.exe
+D:\Microsoft Visual Studio\repos\BluetoothKey\obj\Debug\BluetoothKey.pdb
